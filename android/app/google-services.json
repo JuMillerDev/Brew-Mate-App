@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249449481473",
+    "project_id": "brew-mate-335b0",
+    "storage_bucket": "brew-mate-335b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249449481473:android:a7f8b0a07b9ea110a68700",
+        "android_client_info": {
+          "package_name": "com.yu_miller.brew_maate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249449481473-m4s4a3h4rqcbvelp1rteojq4v1fbmsec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4WC3dbDIhY97v-LlxDulvCT3gN-LrjbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249449481473-m4s4a3h4rqcbvelp1rteojq4v1fbmsec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
